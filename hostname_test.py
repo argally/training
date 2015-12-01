@@ -2,7 +2,7 @@ import os
 import sys
 
 SNIPPET_DIR = 'snippets/'
-HOSTNAME = 'n9k1'
+HOSTNAME = 'n9k2'
 
 FAILURE = 1
 SUCCESS = 0
